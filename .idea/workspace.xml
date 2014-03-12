@@ -79,7 +79,7 @@
       <file leaf-file-name="config.ru" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.ru">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="27" selection-start="47" selection-end="47" vertical-scroll-proportion="0.06736527" vertical-offset="0" max-vertical-offset="668">
+            <state line="4" column="11" selection-start="65" selection-end="65" vertical-scroll-proportion="0.08982036" vertical-offset="0" max-vertical-offset="668">
               <folding />
             </state>
           </provider>
@@ -301,12 +301,12 @@
       <changelist id="eccdeba6-202b-42e1-9efd-c118e8a12f52" name="Default" comment="" />
       <created>1394653897576</created>
       <updated>1394653897576</updated>
-      <workItem from="1394653901180" duration="3803000" />
+      <workItem from="1394653901180" duration="3971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3803000" />
+    <option name="totallyTimeSpent" value="3971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="24" width="1781" height="1091" extended-state="0" />
@@ -379,7 +379,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.ru">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="27" selection-start="47" selection-end="47" vertical-scroll-proportion="0.06736527" vertical-offset="0" max-vertical-offset="668">
+        <state line="4" column="11" selection-start="65" selection-end="65" vertical-scroll-proportion="0.08982036" vertical-offset="0" max-vertical-offset="668">
           <folding />
         </state>
       </provider>
