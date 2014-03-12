@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eccdeba6-202b-42e1-9efd-c118e8a12f52" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/jasmine_favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/SpecRunner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js/boot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js/console.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/css/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/js/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/SpecRunner.html" afterPath="$PROJECT_DIR$/test/SpecRunner.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="speeddemo.iws" />
@@ -86,7 +79,7 @@
       <file leaf-file-name="SpecRunner.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="34" selection-start="790" selection-end="790" vertical-scroll-proportion="0.39596274" vertical-offset="0" max-vertical-offset="644">
+            <state line="23" column="6" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.53571427" vertical-offset="0" max-vertical-offset="644">
               <folding />
             </state>
           </provider>
@@ -176,6 +169,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="speeddemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="speeddemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -321,12 +332,12 @@
       <changelist id="eccdeba6-202b-42e1-9efd-c118e8a12f52" name="Default" comment="" />
       <created>1394653897576</created>
       <updated>1394653897576</updated>
-      <workItem from="1394653901180" duration="4680000" />
+      <workItem from="1394653901180" duration="4911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4680000" />
+    <option name="totallyTimeSpent" value="4911000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="722" y="56" width="1781" height="1091" extended-state="0" />
@@ -406,7 +417,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="34" selection-start="790" selection-end="790" vertical-scroll-proportion="0.39596274" vertical-offset="0" max-vertical-offset="644">
+        <state line="23" column="6" selection-start="1009" selection-end="1009" vertical-scroll-proportion="0.53571427" vertical-offset="0" max-vertical-offset="644">
           <folding />
         </state>
       </provider>
